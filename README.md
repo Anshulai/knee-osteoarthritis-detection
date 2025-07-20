@@ -39,9 +39,6 @@ The project includes a user-friendly web interface built with Streamlit that all
 | Moderate | ![Moderate](assets/Moderate.png) |
 | Severe | ![Severe](assets/Severe.png) |
 
-### Web Interface
-![Streamlit Interface](assets/streamlit_knee_ss.png)
-
 ## Dataset and Models
 
 **Note**: 

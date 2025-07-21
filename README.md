@@ -128,7 +128,3 @@ The project uses transfer learning with three state-of-the-art CNN architectures
    - Evaluation on held-out test set
    - Performance metrics
    - Model interpretability analysis
-
-## Contributor
-
-Under the guidance of Prof. Rakhi Neogi

@@ -7,7 +7,7 @@ This project implements an AI-powered system for detecting and grading knee oste
 The system uses state-of-the-art deep learning models (Xception, ResNet50, and Inception-ResNet-V2) to classify knee X-rays into five severity grades:
 - Healthy
 - Doubtful
-- Minimal
+- Minimal 
 - Moderate  
 - Severe
 
